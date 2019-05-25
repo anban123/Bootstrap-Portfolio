@@ -1,0 +1,15 @@
+/* Homework Due 5.29.19 */
+
+.clearfix::after {
+    clear:both;
+    content:"";
+    display:block;
+}
+
+#title {
+    color: red;
+}
+
+.mynavbar {
+    float: right;
+}
