@@ -13,3 +13,16 @@
 .mynavbar {
     float: right;
 }
+
+#nametag {
+    background-color: aqua;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+}
+
+footer {
+    background-color: gray;
+    padding-top: 30px;
+    paddint-left: 40px;
+}
