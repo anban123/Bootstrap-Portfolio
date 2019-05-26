@@ -12,27 +12,33 @@ body {
 
 .container {
     background-color: white;
-    margin: 20px;
+    margin-left: 90px;
+    margin-right: 90px;
 }
 
 #title {
     color: teal;
+    font-family: "Times New Roman", Times, serif;
 }
 
 .mynavbar {
     float: right;
 }
 
-#nametag {
+#nameTag {
     background-color: aqua;
     color: white;
     margin: 20px;
     padding: 10px;
+    font-family: "Times New Roman", Times, serif;
 }
 
 footer {
     background-color: gray;
     margin-top: 20px;
     padding-top: 30px;
-    paddint-left: 40px;
+    padding-left: 45%;
+    border-top: 20px;
+    border-color: teal;
+    font-size: 12px;
 }
