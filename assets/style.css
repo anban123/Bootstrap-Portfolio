@@ -6,14 +6,17 @@
     display:block;
 }
 
+html {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
 body {
     background-color: lightgray;
 }
 
 .container {
     background-color: white;
-    margin-left: 90px;
-    margin-right: 90px;
     margin-top: 30px;
 }
 
@@ -37,20 +40,21 @@ body {
     color: white;
     margin-right: 75%;
     padding: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-family: "Times New Roman", Times, serif;
 }
 
 .row {
+    padding: 5px;
 
 }
 
 footer {
     background-color: gray;
     margin-top: 20px;
-    padding-top: 30px;
+    padding-top: 40px;
     padding-left: 45%;
-    border-top: 20px;
+    border: 50px;
     border-color: teal;
     font-size: 12px;
 }
